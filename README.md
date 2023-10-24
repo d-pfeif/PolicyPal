@@ -1,4 +1,4 @@
-# PolicyPal
+# React Native Boilerplate
 This repository started from a [boilerplate](https://github.com/ixartz/React-Native-Boilerplate) and includes the following features:
 
 - ⚡ [Expo](https://expo.dev) for mobile development
